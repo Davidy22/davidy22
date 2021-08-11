@@ -6,7 +6,10 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/dayyyy)
 
 ### Info:
+<table border="0"><tr><td width="350px">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidy22&layout=compact&theme=gruvbox)
+</td><td>
 
 ![Visitor count](http://visitor-badge-reloaded.herokuapp.com/badge?page_id=davidy22&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -23,6 +26,7 @@
 ![GA](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+</td></tr></table>
 <!--
 [![]()]()
 -->
