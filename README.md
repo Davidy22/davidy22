@@ -1,13 +1,14 @@
 # Hi there 👋
 ### Find me at:
-![Visitor count](http://visitor-badge-reloaded.herokuapp.com/badge?page_id=davidy22&style=for-the-badge)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidyang6us@gmail.com)
+[![Youtube](https://img.shields.io/youtube/channel/subscribers/UC5KaUPFcTxupJVhBR5CMbOg?style=for-the-badge)](https://www.youtube.com/c/bikepumpmusic)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davidy22)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/dayyyy)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davidy22) 
 
 ### Info:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidy22&layout=compact&theme=gruvbox)
 
+![Visitor count](http://visitor-badge-reloaded.herokuapp.com/badge?page_id=davidy22&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
