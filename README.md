@@ -5,7 +5,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davidy22)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/dayyyy)
 
-### Info:
 <table border="0"><tr><td width="350px">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidy22&layout=compact&theme=gruvbox)
